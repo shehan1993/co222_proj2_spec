@@ -1,0 +1,21 @@
+In ArrayImpl. c
+
+the stack get Elapse time 1.88400
+the queue get Elapse time 13383.2500
+
+
+
+In LinklistImpl.c
+
+the stack get Elapse time 3.207000
+the queue get Elapse time 42198.158000
+
+
+
+
+In ArrayImpl the memory allocate for all the elements at one time .
+In LinklistImpl the memory allocation is done when adding the elements.
+Also if we not limit the number of elements in link list it can get memory more than the ArrayImpl
+
+
+
